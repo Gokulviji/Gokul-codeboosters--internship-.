@@ -2,7 +2,7 @@
 
 # CHAT BOT
 
-https://coruscating-choux-dfb626.netlify.app/
+https://effervescent-crostata-16b383.netlify.app/
 
 
 
